@@ -1,3 +1,3 @@
-# joesparker.github.io
+# octal.me
 
 Personal website
