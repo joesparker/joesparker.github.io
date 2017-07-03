@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-07-03T15:00:55-05:00</updated><id>http://localhost:4000/</id><title type="html">Octal Blog</title><subtitle>Musings on Infosec, Music, Beer, Bikes, &amp; BBQ by Joe Parker.
+</subtitle><entry><title type="html">Securing Yourself for Hacker Summer Camp</title><link href="http://localhost:4000/2017/07/03/Securing-Yourself-for-Hacker-Summer-Camp.html" rel="alternate" type="text/html" title="Securing Yourself for Hacker Summer Camp" /><published>2017-07-03T00:00:00-05:00</published><updated>2017-07-03T00:00:00-05:00</updated><id>http://localhost:4000/2017/07/03/Securing-Yourself-for-Hacker-Summer-Camp</id><content type="html" xml:base="http://localhost:4000/2017/07/03/Securing-Yourself-for-Hacker-Summer-Camp.html">&lt;p&gt;By Joe Parker&lt;/p&gt;
+
+&lt;p&gt;Security conferences are great places to meet people, network, and learn. Educating yourself about potential risks to the security of your devices gives you peace of mind so you can enjoy yourself. Protecting sensitive data may not the first thing that comes to mind for first-timers, but it is critical that you do so. It’s important to be aware that people will most likely be using offensive tools and tactics to target your information. The good news is that you can take precautions to avoid becoming easy prey.&lt;/p&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Your threat model is not my threat model. &lt;a href=&quot;https://t.co/h2bYGIgdrB&quot;&gt;pic.twitter.com/h2bYGIgdrB&lt;/a&gt;&lt;/p&gt;&amp;mdash; the grugq (@thegrugq) &lt;a href=&quot;https://twitter.com/thegrugq/status/864023197145944064&quot;&gt;May 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;First, consider your personal and professional risk. What information, access, and assets do you possess that someone might want to game or commandeer? In my case, 15 years of experience in IT means I have sensitive information that I’m obligated to protect from disclosure or misuse. My maxim is, “I can’t lose what I don’t have,” and it has served me well. I make a concerted effort to leave behind customer data, credentials, and company assets so even if my precautions fail, nothing is gone.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-not-to-bring&quot;&gt;What Not to Bring&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Any data that you can’t afford to have leaked or copied&lt;/li&gt;
+  &lt;li&gt;Employer-issued assets like a laptop, 2FA token, or access cards&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-to-bring&quot;&gt;What to Bring&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pen and paper for note-taking&lt;/li&gt;
+  &lt;li&gt;Business cards for networking with potential employers, customers, and clients&lt;/li&gt;
+  &lt;li&gt;Personal cards if to give out personal contact info&lt;/li&gt;
+  &lt;li&gt;Faraday bag&lt;/li&gt;
+  &lt;li&gt;Extra charging cables&lt;/li&gt;
+  &lt;li&gt;Battery pack for mobile charging&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;radio-frequency-recommendations&quot;&gt;Radio Frequency Recommendations&lt;/h1&gt;
+&lt;p&gt;WiFi, Bluetooth, and other radio frequency-based technologies are convenient, but they can also be vulnerable to eavesdropping and tracking. You should disable any RF technology unless you absolutely need it. If you need Internet access and have a phone with USB tethering, you can leave WiFi and Bluetooth disabled and connect to your laptop. Many cons provide safe and secure networks with individual credentials to access them, but it’s smart to treat these with a healthy dose of suspicion—only connect if you must. You can always make a note and look it up later.&lt;/p&gt;
+
+&lt;h1 id=&quot;network-recommendations&quot;&gt;Network Recommendations&lt;/h1&gt;
+&lt;p&gt;Never log into work, customer, or client accounts while at a con. Not only is there a possibility of eavesdropping, but such intrusions can be used to gather information about you, your employer, or your customers. Avoid QR codes or URLs on posters or stickers at cons—they commonly drive users to a fake login page, or gather information about you. Consider what personal account you’re accessing while at a con-the fewer, the better.&lt;/p&gt;
+
+&lt;h1 id=&quot;laptop-and-phone-recommendations&quot;&gt;Laptop and Phone Recommendations&lt;/h1&gt;
+&lt;p&gt;Having a laptop is by no means necessary to attend a con, but one may be required for participating in workshops, CTFs, or presentations. I use an older laptop that’s free of personal and work data. Make a disk-based backup of your laptop and or phone before the con so you can restore it afterwards. Regardless of what device(s) you bring, you should take the following steps:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Update your operating system.&lt;/li&gt;
+  &lt;li&gt;Remove unnecessary applications and make sure the rest are up to date.&lt;/li&gt;
+  &lt;li&gt;Disable Bluetooth, WiFi and NFC when not in use.&lt;/li&gt;
+  &lt;li&gt;Enable disk encryption.&lt;/li&gt;
+  &lt;li&gt;Place a sticker over your webcam.&lt;/li&gt;
+  &lt;li&gt;Use a VPN like Freedome, Algo, or OpenVPN to protect your traffic on all networks.&lt;/li&gt;
+  &lt;li&gt;Exercise caution when unlocking your device to avoid someone observing your password.&lt;/li&gt;
+  &lt;li&gt;Turn off lock-screen notifications. Lots of information can be gleaned from e-mail and text message previews.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;never&quot;&gt;Never…&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Plug in USB devices found or given out at cons.&lt;/li&gt;
+  &lt;li&gt;Allow others to charge their phones or plug anything into your laptop. Ever.&lt;/li&gt;
+  &lt;li&gt;Trust USB charging stations. Reduce risk by charging from personal hardware.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;account-management-recommendations&quot;&gt;Account Management Recommendations&lt;/h1&gt;
+&lt;p&gt;Don’t allow an opportunity for eavesdropping or get tricked into revealing credentials.&lt;/p&gt;
+
+&lt;h1 id=&quot;never-1&quot;&gt;Never…&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Log into any personal or work account on a potentially hostile network. If you can’t decide if a con network is hostile, always assume it is.&lt;/li&gt;
+  &lt;li&gt;Bring an encrypted password manager like LastPass, 1Password, or KeePass to a con. If your laptop or phone is compromised there is no password vault to swipe or memory to inspect for passwords.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;always&quot;&gt;Always…&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Have unique and complex passwords for each account you use.&lt;/li&gt;
+  &lt;li&gt;Use 2FA (Two Factor Authentication) on your personal accounts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;hotel-room-recommendations&quot;&gt;Hotel Room recommendations&lt;/h1&gt;
+&lt;p&gt;If you are staying overnight, be aware of some additional risks:&lt;/p&gt;
+
+&lt;h1 id=&quot;never-2&quot;&gt;Never…&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Give out your hotel name or room number. It creates potential for unwanted charges, wake-up calls, and other harassment.&lt;/li&gt;
+  &lt;li&gt;Trust your hotel room to protect your gear. Utilizing a hotel safe is better than leaving your stuff unattended, but the safest option is to always carry it with you.&lt;/li&gt;
+  &lt;li&gt;Use ATMs located near the convention. Grab cash before you arrive or use credit cards.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;post-con&quot;&gt;Post-Con&lt;/h1&gt;
+&lt;p&gt;After the con:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Wipe your laptop. Roll back using the disk-based backups you made pre-con.&lt;/li&gt;
+  &lt;li&gt;Wipe your phone. Roll back using the backup you made pre-con.&lt;/li&gt;
+  &lt;li&gt;Reset any passwords you used during your time at the con. Password managers like LastPass, 1Password, and KeePass can generate random passwords for you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks for stopping by! Follow me on Twitter to share questions or thoughts.&lt;/p&gt;
+
+&lt;p&gt;Finally I want to thank my amazing wife for editing this for me. I can assure you this was a dumpster fire before she stepped in and saved me from myself.&lt;/p&gt;</content><author><name></name></author><summary type="html">By Joe Parker</summary></entry></feed>
